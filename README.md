@@ -7,8 +7,9 @@ Website inspirado no layout da My Food.
 
 ## Preview
 
-[![Watch the video] (<img width="1928" height="919" alt="image" src="https://github.com/user-attachments/assets/2cff733f-3aad-4c31-b68e-60fc6f62fd15" />
-)](https://youtu.be/gkMzlsfdkIM)
+[![Watch the video] (<img width="1871" height="925" alt="image" src="https://github.com/user-attachments/assets/5380baf6-e8bd-4cb4-867d-4819c1af9a33" />
+ />
+)](https://youtu.be/9CbS2CC_VCc)
 
 🔗 Live Demo: https://github.com/JoaoVictorAlmeidaDe/MyFood-Website.git
 
